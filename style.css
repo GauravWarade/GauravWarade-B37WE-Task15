@@ -1,0 +1,31 @@
+h1{
+  color: white;
+  text-align: center;
+  font-size: xx-large;
+}
+form{
+    color: azure;
+    padding: 2%;
+    font-weight: bold;
+}
+
+.button4 {
+  border-radius: 12px;
+  font-size: 16px;
+  padding: 6px 14px;
+  background-color: cornflowerblue;
+  border: none;
+  color: white;
+  margin-left: 45%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bg{
+  background-image: url("bg1.jpg");
+  background-size: auto;
+  background-position: center;
+}
+.content{
+  padding: 2%;
+  font-weight: bold;
+}
